@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  color: maroon;
+  background-image: url('../img/ivy.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  font-family: Comic Sans MS;
+}
+h2 {
+  font-style: italic;
+}
+.bandname {
+  font-size: 100px;
+}
+.sidebar {
+  float: left;
+  font-size: 30px;
+  margin-right: auto;
+}
+li {
+  text-align: left;
+}
+.column {
+  width: 600px;
+  float: left;
+}
