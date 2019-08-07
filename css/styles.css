@@ -23,8 +23,13 @@ h2 {
 }
 li {
   text-align: left;
+  color: salmon;
 }
 .column {
   width: 600px;
   float: left;
+}
+.box {
+  border: 8px solid salmon;
+  padding: 8px;
 }
